@@ -27,7 +27,7 @@
 
 
 ## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{Moviez-Bot-Dev}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{JarvisSquad}/count.svg)
 
 
 ## YouTube 
