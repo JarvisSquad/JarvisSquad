@@ -22,8 +22,8 @@
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
 [![Stats](https://github-readme-stats.vercel.app/api?username=LazyDeveloperr&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/Moviez-Bot-Dev/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Moviez-Bot-Dev&theme=tokyonight" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moviez-Bot-Dev&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JarvisSquad&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarvisSquad&layout=compact&theme=tokyonight" align="center">
 
 
 ## Profile views counter
